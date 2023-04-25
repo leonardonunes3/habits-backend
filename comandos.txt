@@ -1,0 +1,7 @@
+1) npm init -y (criar projeto)
+2) npm install fastify
+3) Criar arquivos .ts
+4) npm install typescript -D
+5) npx tsc --init (criar tsconfig.json)
+6) npm install tsx -D
+7) Arquivo package.json, adicionar "scripts": {"dev": "tsx watch src/server.ts"}
